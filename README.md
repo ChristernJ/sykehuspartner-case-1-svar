@@ -1,34 +1,8 @@
-# Forberedelser
-1. Last ned eller klon dette repository.
-2. Last ned og installer node.js. Jeg har brukt siste versjon av node 10, men antageligvis vil nyeere versjoner også virke. Siste versjon av node 10 kan lastes ned her: [Node.js latest-v10.x]([dd](https://nodejs.org/dist/latest-v10.x/)), f.eks. node-v10.24.0-x64.msi.
-3. Jeg anbefaler å laste ned [Visual Studio Code](https://code.visualstudio.com/), men her står du fritt.
-4. Kjør følgende kommandolinje fra mappen hvor du har lastet ned repo, dette vil installere alle andre avhengigheter du trenger:
-```
-npm install
-```
+Besvarelse av oppgave funnet: https://github.com/Gramatus/sykehuspartner-case-1
 
-# Prosjektstruktur
-* Koden du skal skrive ligger i mappen `src`. Lag nye mapper og filer etter ønske og behov.
-* Når du bygger koden legger filene seg i mappen `dist`.
-* HTML-siden og CSS ligger i mappen `webpage`.
-
-# Bygg
-Når du gjør endringer i koden så må prosjektet ditt bygges. Det kan du gjøre med denne kommandoen:
-```
-npx webpack
-```
-
-## Watch mode
-Hvis du starter watch mode så vil koden automatisk bygges pånytt hver gang du lagrer en fil (så fremt alt virker etter planen). Bruk denne kommandoen:
-```
-npx webpack -w
-```
-
-# Ressurser
-* [React: Tutorial](https://reactjs.org/tutorial/tutorial.html)
-> ***NB:** Det er en viktig feil i tutorial, den sier at du må ha "class components" for å ha "state". Men det er ikke lenger tilfelle, som beskrevet i dokumentasjonen for hooks du finner kobling til under.*
-* [React: State Hooks](https://reactjs.org/docs/hooks-state.html)
-* [Typescript dokumentasjon](https://www.typescriptlang.org/docs/)
+style.css har blitt endret,
+MainComponent har blitt endret,
+Components har blitt lagt til.
 
 # Sammenheng mellom komponentene
 Løsningen skal oppfylle følgende krav:
