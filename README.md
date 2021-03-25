@@ -1,4 +1,4 @@
-Besvarelse av oppgave funnet: https://github.com/Gramatus/sykehuspartner-case-1
+Besvarelse av oppgaven: https://github.com/Gramatus/sykehuspartner-case-1
 
 style.css har blitt endret,
 MainComponent har blitt endret,
