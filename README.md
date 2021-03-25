@@ -4,7 +4,8 @@ style.css har blitt endret,
 MainComponent har blitt endret,
 Components har blitt lagt til.
 
-# Sammenheng mellom komponentene
+
+
 Løsningen skal oppfylle følgende krav:
 * Den skal lages med React og skrives i Typescript
 * Den skal lages med funksjonelle komponenter, ikke klasser
